@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+textblob
+vaderSentiment
+matplotlib
+wordcloud
+streamlit
+openpyxl
